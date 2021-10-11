@@ -1,1 +1,1 @@
-Dynamic Programming
+Paradigm: - Dynamic Programming
